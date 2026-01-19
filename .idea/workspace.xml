@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="406fed39-b64b-4a39-9d9e-1c8f2a81688f" name="Changes" comment="update1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="3592tYclO7X0yAuSC024U9nWI5q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/truongtq.BA/PycharmProjects/pythonProject/ba_gpstaxi&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\truongtq.BA\PycharmProjects\pythonProject\ba_gpstaxi" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="406fed39-b64b-4a39-9d9e-1c8f2a81688f" name="Changes" comment="" />
+      <created>1762508182792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762508182792</updated>
+      <workItem from="1762508183927" duration="1273000" />
+      <workItem from="1762736686245" duration="1284000" />
+      <workItem from="1762739388840" duration="6469000" />
+      <workItem from="1762746323122" duration="8883000" />
+      <workItem from="1762759698914" duration="1228000" />
+      <workItem from="1762761901311" duration="11368000" />
+      <workItem from="1762831046853" duration="16717000" />
+      <workItem from="1762852398002" duration="3186000" />
+      <workItem from="1762931418609" duration="14246000" />
+      <workItem from="1763428560292" duration="866000" />
+      <workItem from="1763431861539" duration="30215000" />
+      <workItem from="1763527145218" duration="12000" />
+      <workItem from="1763713321373" duration="24623000" />
+      <workItem from="1763945238452" duration="1143000" />
+      <workItem from="1763947790867" duration="23116000" />
+      <workItem from="1764043321558" duration="19118000" />
+      <workItem from="1764119034991" duration="2259000" />
+      <workItem from="1764124268810" duration="3400000" />
+      <workItem from="1764127973641" duration="327000" />
+      <workItem from="1764128328006" duration="1555000" />
+      <workItem from="1764129938068" duration="735000" />
+      <workItem from="1764130694310" duration="96000" />
+      <workItem from="1764130799374" duration="9423000" />
+      <workItem from="1764144413050" duration="2216000" />
+      <workItem from="1764149989352" duration="1194000" />
+      <workItem from="1764151460833" duration="4242000" />
+      <workItem from="1764208279644" duration="2664000" />
+      <workItem from="1764215207244" duration="22446000" />
+      <workItem from="1764296065255" duration="4485000" />
+      <workItem from="1764310160090" duration="8926000" />
+      <workItem from="1764324623037" duration="2146000" />
+      <workItem from="1764637444031" duration="658000" />
+      <workItem from="1764901948903" duration="10709000" />
+      <workItem from="1764916596037" duration="591000" />
+      <workItem from="1764917988028" duration="14873000" />
+      <workItem from="1765157554568" duration="27423000" />
+      <workItem from="1765189894534" duration="1577000" />
+      <workItem from="1765511066853" duration="19588000" />
+      <workItem from="1765771822867" duration="1173000" />
+      <workItem from="1765956728376" duration="424000" />
+      <workItem from="1766045255334" duration="6416000" />
+      <workItem from="1766116305554" duration="6207000" />
+      <workItem from="1766126215124" duration="10557000" />
+      <workItem from="1766371030571" duration="8692000" />
+      <workItem from="1766390369770" duration="5074000" />
+      <workItem from="1766400193893" duration="3237000" />
+      <workItem from="1766471789484" duration="13602000" />
+      <workItem from="1766488084158" duration="2070000" />
+      <workItem from="1766540538047" duration="14187000" />
+      <workItem from="1766563253449" duration="1124000" />
+      <workItem from="1766568810645" duration="2544000" />
+      <workItem from="1766574009170" duration="1126000" />
+      <workItem from="1766659074161" duration="1334000" />
+      <workItem from="1767062661725" duration="3472000" />
+      <workItem from="1768808166266" duration="1990000" />
+      <workItem from="1768810270816" duration="1271000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1768810118163</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1768810118163</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update1">
+      <created>1768810279811</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1768810279811</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update1">
+      <created>1768810684721</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1768810684721</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <MESSAGE value="update1" />
+    <option name="LAST_COMMIT_MESSAGE" value="update1" />
+  </component>
+</project>

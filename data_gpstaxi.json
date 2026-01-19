@@ -1,0 +1,67 @@
+{
+  "login": {
+    "binhanh_tk": "truongtq@bagroup.vn",
+    "binhanh_mk": "truongdz12",
+    "binhthuong_tk": "auto_binhthuong",
+    "binhthuong_mk": "Aa@12345678",
+    "laixe_tk": "auto_laixe",
+    "laixe_mk": "Aa@12345678",
+    "quanlynhanuoc_tk": "auto_quanlynhanuoc",
+    "quanlynhanuoc_mk": "Aa@12345678",
+    "khongcoquyengiamsat_tk": "auto_khongcogiamsat",
+    "khongcoquyengiamsat_mk": "Aa@12345678",
+    "quantri_tk": "admin999998",
+    "quantri_mk": "Aa@12345678",
+    "batest424_tk": "batest424",
+    "batest424_mk": "Aa@12345678",
+    "quenmatkhau_tk": "auto_quenmatkhau",
+    "quenmatkhau_mk": "Aa@12345678",
+    "sodienthoai_mk": "0359667694",
+    "taxihathanh_tk": "taxihathanhhd1",
+    "taxihathanh_mk": "Aa@12345678",
+    "taxihathanh_mk1": "A"
+  },
+  "minitor": {
+    "hide_vehicle": "99A18470",
+    "landmark": "Điểm test tìm kiếm",
+    "coordinates": "20.981636, 105.829496",
+    "coordinates1": "20.998865, 105.927944",
+    "timkiem_toado2": "20.97587, 105.835726",
+    "SubscriberCost": "100/20/30000",
+    "Name": "Trường test tạo điểm1",
+    "Name_edit": "Trường test tạo điểm2",
+    "txtAddressSuggest": "17, Ngách 169/67 Hoàng Mai, P. Tương Mai, TP. Hà Nội",
+    "PrivateName": "Điểm test1",
+    "Longitude": "105.855462",
+    "Latitude": "20.991758",
+    "Radius": "30",
+    "PhoneNumber_input": "0358775642",
+    "Email": "truongabc@gmail.com",
+    "Description": "Trường test tạo điểm",
+    "HighWayVelocityAllow": "40",
+    "LowWayVelocityAllow": "10",
+    "MinVehicle": "1",
+    "MaxVehicle": "5",
+    "MinuteLongAreaAlert": "10",
+    "hide_note": "Trường test Ẩn trên giám sát"
+  },
+  "quantri": {
+    "loaiphuongtien": "Xe ô tô điện",
+    "socho": "6",
+    "dinhmuckmbaoduong": "1200",
+    "bienkiemsoat": "36B02529_C"
+  },
+  "tienich": {
+    "diem": "12, Nguyễn Trãi, Thanh Xuân, Hà Nội",
+    "quantridiem_timkiem1": "Trạm",
+    "quantridiem_timkiem2": "X. Hiếu Giang, Quảng Trị",
+    "quanlynhomdiem_themmoi": "nhom diem z",
+    "quanlynhomdiem_update": "nhom diem z da sua",
+    "timkiem_toado6": "21.048376, 105.780825"
+  },
+    "baocao": {
+    "quatocdo_tungay": "21082024",
+    "quatocdo_denngay": "20092024",
+    "timkiem_toado6": "21.048376, 105.780825"
+  }
+}
